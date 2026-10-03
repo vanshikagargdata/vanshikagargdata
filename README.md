@@ -106,7 +106,7 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 
 ---
 
-## 👀 Profile Visitors
+ 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=vanshikagargdata&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
