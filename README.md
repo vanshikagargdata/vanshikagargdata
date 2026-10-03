@@ -74,24 +74,9 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 
 ---
 
-## 🏆 GitHub Trophies
+ 
 
-<p align="center">
-  <a href="https://github.com/vanshikagargdata">
-    View Vanshika's GitHub Profile 🏆
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/vanshikagargdata">
-    View GitHub Contribution Activity 📈
-  </a>
-</p>
-
+ 
 ---
 
 ---
