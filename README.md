@@ -18,8 +18,7 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_PROFILE_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshikagarg1508@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vanshika-garg-3503a241a/)
 
 ---
 
@@ -53,4 +52,78 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logo
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshikagargdata&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=vanshikagargdata&theme=tokyonight&hide_border=true" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikagargdata&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vanshikagargdata&theme=tokyonight&no-frame=true&column=4" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshikagargdata&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Smart Expense Analytics Dashboard
+
+- Personal income and expense analysis.
+- Financial KPIs and spending patterns.
+- Data visualization and analytical insights.
+- Technologies: Python, Pandas, NumPy, SQL and Chart.js.
+
+### 💻 Java & DSA Practice
+
+- Practicing Data Structures and Algorithms.
+- Solving coding problems using Java.
+- Improving problem-solving skills.
+
+---
+
+## ✍️ Random Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vanshikagargdata&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 💡 Keep Learning | Keep Building | Keep Growing 🚀
+
+</p>
