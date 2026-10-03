@@ -49,4 +49,87 @@ I'm a passionate Computer Science student interested in Data Analytics, Problem 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vanshikagargdata&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://streak-stats.demolab.com/?user=vanshikagargdata&theme=tokyonight&hide_border=true" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/vanshikagargdata">
+    View Vanshika's GitHub Profile 🏆
+  </a>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/vanshikagargdata">
+    View GitHub Contribution Activity 📈
+  </a>
+</p>
+
+---
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Smart Expense Analytics Dashboard
+
+- Personal income and expense analysis.
+- Financial KPIs and spending patterns.
+- Data visualization and analytical insights.
+- Technologies: Python, Pandas, NumPy, SQL and Chart.js.
+
+### 💻 Java & DSA Practice
+
+- Practicing Data Structures and Algorithms.
+- Solving coding problems using Java.
+- Improving problem-solving skills.
+
+---
+
+## ✍️ Random Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vanshikagargdata&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+### ⭐ Thanks for visiting my profile!
+### 💡 Keep Learning | Keep Building | Keep Growing 🚀
+</p>
